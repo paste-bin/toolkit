@@ -1,0 +1,3 @@
+[submodule "/Users/redteam/.zprezto"]
+	path = /Users/redteam/.zprezto
+	url = https://github.com/sorin-ionescu/prezto.git
